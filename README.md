@@ -14,5 +14,5 @@ P.s Linux the best
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nullelektron&hide=html&theme=buefy&layout=compact)
 <br>
 **Other:**<br>
-![](https://github-readme-stats.vercel.app/api?username=Nullelektron&show_icons=true&theme=buefy&locale=ru)
+![](https://github-readme-stats.vercel.app/api?username=Nullelektron&show_icons=true&theme=buefy)
 <br>
