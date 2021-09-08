@@ -2,7 +2,7 @@
 > userinfo
 
 User           :: Nullelektron
-AboutMe        :: Heil, ich bin coder from Russia! My Name is Erwin.
+AboutMe        :: Heil, ich bin coder.
 Languages      :: JavaScript, TypeScript
 Frameworks     :: Vue, Electron.Js
 Libraries      :: Fastify, Express, Discord.Js
