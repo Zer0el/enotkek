@@ -17,4 +17,4 @@ Games          :: Escape From Tarkov, War Thunder, CiV6
 CodingOn       :: Visual Studio Code, Webstorm
 
 ```
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullelektron&show_icons=true&locale=en" alt="nullelektron" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullelektron&show_icons=true&locale=en&theme=dark" alt="nullelektron" /></p>
