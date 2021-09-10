@@ -17,6 +17,6 @@ Games          :: Escape From Tarkov, War Thunder, CiV6
 CodingOn       :: Visual Studio Code, Webstorm
 
 ```
-<br<br>
+<br><br>
 Пишу консол логи через массивы чтобы взорвать жопу жунов мидлов и прочих ебланов
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullelektron&show_icons=true&locale=en&theme=dark" alt="nullelektron" /></p>
